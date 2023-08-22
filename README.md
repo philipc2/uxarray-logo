@@ -1,1 +1,1 @@
-# uxarray-logo
+# UXarray Logo Notebook
